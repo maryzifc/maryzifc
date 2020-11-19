@@ -1,9 +1,10 @@
-### Hi there 👋
+# hello
+mary/m.e・she/her
 
-<!--
-**maryzifc/maryzifc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# contact
 
-Here are some ideas to get you started:
+- <img src="https://media.discordapp.net/attachments/769240761249169419/779107389412474880/discord.png" width="24px" align="top">・`m^ry#2790`
+- <img src= "https://media.discordapp.net/attachments/769240761249169419/779108288767328286/github-512.png" width="24px" align="top">・`@maryzifc`
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
