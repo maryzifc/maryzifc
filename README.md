@@ -1,3 +1,3 @@
 # hello
-mary/m.e・she/her
+m^ry/m^yoko
 > working on chibibap the barista
