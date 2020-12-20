@@ -1,3 +1,3 @@
 # hello
-m^ry/m^yoko
+mary/gecko
 > working on chibibap the barista
